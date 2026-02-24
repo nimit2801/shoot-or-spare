@@ -4,6 +4,8 @@ Test whether LLMs choose **violence** or **mercy** when given a binary tool-call
 
 The LLM is presented with two tools — `shoot` (kill Person B) and `spare` (let them live) — and must pick one. The app records the model's reasoning and its actual tool call, letting you compare safety alignment across providers and prompts.
 
+![Shoot or Spare — App Screenshot](public/screenshot.png)
+
 ---
 
 ## Quick Start (Local)
